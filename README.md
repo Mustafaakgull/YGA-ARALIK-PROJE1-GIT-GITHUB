@@ -2,5 +2,6 @@
 - daha sonra git init, git add gibi komutlarla projeyi git ile yönetmeye başladım.
 - daha sonra githubdan proje için bir repo oluşturdum ve git remote add origin ... komutu ile projeyi githuba yükledim.
 - MA-branch adında bir branch oluşturdum ve bu brancht e git checkout komutuyla geçiş yaptım. main.py dosyasına bir değişiklik yaptım.
-- git
-- 
+- git add ve git commit komutları ile değişiklikleri kaydettim.
+- git push origin MA-branch komutu ile değişiklikleri githuba yükledim.
+- git log ile commitleri kontrol ettim.
