@@ -1,0 +1,6 @@
+- ilk olarak projeye main.py dosyasını ekledim ve içine print("Hello World!") yazdım.
+- daha sonra git init, git add gibi komutlarla projeyi git ile yönetmeye başladım.
+- daha sonra githubdan proje için bir repo oluşturdum ve git remote add origin ... komutu ile projeyi githuba yükledim.
+- MA-branch adında bir branch oluşturdum ve bu brancht e git checkout komutuyla geçiş yaptım. main.py dosyasına bir değişiklik yaptım.
+- git
+- 
